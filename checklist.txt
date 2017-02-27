@@ -1,0 +1,7 @@
+word count average (total word count / entries)
+2621 / 671 = ~3.9 = 4
+
+words that aren't real / in dictionary (wordnik)
+
+titles including I, me, and myself
+
