@@ -5,9 +5,9 @@
 $(document).ready(function() {
     $.ajax({
         type: "GET",
-        url: "out_fix.csv",
+        url: "out.csv",
         dataType: "text",
-        success: function(data) { getMatches( "i", data); }
+        success: function(data) { getMatches( "me", data); }
      });
 });
 
@@ -19,4 +19,6 @@ function getMatches(needle, haystack) {
     }
     console.log(myResult.length);
 }
+
+
 

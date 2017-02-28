@@ -1,7 +1,10 @@
-word count average (total word count / entries)
-2621 / 671 = ~3.9 = 4
+(x) 	word count average (total word count / entries)
+	2621 / 671 = ~3.9 = 4
 
-words that aren't real / in dictionary (wordnik)
+( )	words that aren't real / in dictionary (wordnik)
 
-titles including I, me, and myself
+(x) 	titles including me, myself, and i 
+	me	: 5
+	myself	: 2
+	i	: 11
 
